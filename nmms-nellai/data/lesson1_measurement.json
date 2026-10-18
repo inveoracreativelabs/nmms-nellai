@@ -1,0 +1,227 @@
+{
+  "lesson_id": "c7_s_t1_l1",
+  "lesson_name": "அளவீட்டியல்",
+  "lesson_name_en": "Measurement",
+  "questions": [
+    {
+      "id": 1,
+      "question_ta": "ஒரு வானியல் அலகு (1 AU) என்பது எதற்குச் சமம்?",
+      "question_en": "One Astronomical Unit (1 AU) is equal to:",
+      "options_ta": [
+        "1.496 × 10¹¹ மீ",
+        "9.46 × 10¹⁵ மீ",
+        "3 × 10⁸ மீ",
+        "1.496 × 10⁸ மீ"
+      ],
+      "options_en": [
+        "1.496 × 10¹¹ m",
+        "9.46 × 10¹⁵ m",
+        "3 × 10⁸ m",
+        "1.496 × 10⁸ m"
+      ],
+      "answer": 0,
+      "explanation_ta": "பூமிக்கும் சூரியனுக்கும் இடையேயுள்ள சராசரித் தொலைவு ஒரு வானியல் அலகு எனப்படும். 1 வானியல் அலகு = 149.6 மில்லியன் கி.மீ = 1.496 × 10¹¹ மீ.",
+      "explanation_en": "One Astronomical Unit is defined as the average distance between the Earth and the Sun. 1 AU = 149.6 million km = 1.496 × 10¹¹ m."
+    },
+    {
+      "id": 2,
+      "question_ta": "ஒளியானது வெற்றிடத்தில் ஓர் ஆண்டில் கடக்கும் தொலைவான ஒரு ஒளி ஆண்டின் மதிப்பு யாது?",
+      "question_en": "What is the value of one light year, which is the distance travelled by light in vacuum in one year?",
+      "options_ta": [
+        "1.496 × 10¹¹ மீ",
+        "9.46 × 10¹⁵ மீ",
+        "9.46 × 10¹² மீ",
+        "3.153 × 10⁷ மீ"
+      ],
+      "options_en": [
+        "1.496 × 10¹¹ m",
+        "9.46 × 10¹⁵ m",
+        "9.46 × 10¹² m",
+        "3.153 × 10⁷ m"
+      ],
+      "answer": 1,
+      "explanation_ta": "ஒளி ஒரு வினாடியில் 3 × 10⁸ மீ கடக்கிறது. ஓர் ஆண்டில் 3.153 × 10⁷ வினாடிகள் உள்ளன. எனவே, 1 ஒளி ஆண்டு = 3 × 10⁸ × 3.153 × 10⁷ = 9.46 × 10¹⁵ மீ.",
+      "explanation_en": "Light travels at 3 × 10⁸ m/s and there are 3.153 × 10⁷ seconds in a year. Hence, 1 Light Year = 3 × 10⁸ × 3.153 × 10⁷ = 9.46 × 10¹⁵ m."
+    },
+    {
+      "id": 3,
+      "question_ta": "அடர்த்தியின் CGS அலகான 1 கி/செ.மீ³ என்பது எத்தனை கிகி/மீ³-க்குச் சமம்?",
+      "question_en": "1 g/cm³, the CGS unit of density, is equal to how many kg/m³?",
+      "options_ta": [
+        "10 கிகி/மீ³",
+        "100 கிகி/மீ³",
+        "1,000 கிகி/மீ³",
+        "10,000 கிகி/மீ³"
+      ],
+      "options_en": [
+        "10 kg/m³",
+        "100 kg/m³",
+        "1,000 kg/m³",
+        "10,000 kg/m³"
+      ],
+      "answer": 2,
+      "explanation_ta": "அடர்த்தியின் SI அலகு கிகி/மீ³ மற்றும் CGS அலகு கி/செ.மீ³. 1 கி/செ.மீ³ = 10³ கிகி/மீ³ = 1,000 கிகி/மீ³.",
+      "explanation_en": "The SI unit of density is kg/m³ and the CGS unit is g/cm³. 1 g/cm³ = 10³ kg/m³ = 1,000 kg/m³."
+    },
+    {
+      "id": 4,
+      "question_ta": "அறை வெப்பநிலையில் பாதரசத்தின் அடர்த்தி யாது?",
+      "question_en": "What is the density of mercury at room temperature?",
+      "options_ta": [
+        "1,000 கிகி/மீ³",
+        "7,800 கிகி/மீ³",
+        "13,600 கிகி/மீ³",
+        "19,300 கிகி/மீ³"
+      ],
+      "options_en": [
+        "1,000 kg/m³",
+        "7,800 kg/m³",
+        "13,600 kg/m³",
+        "19,300 kg/m³"
+      ],
+      "answer": 2,
+      "explanation_ta": "அறை வெப்பநிலையில் பாதரசத்தின் அடர்த்தி 13,600 கிகி/மீ³ ஆகும். இரும்பின் அடர்த்தி 7,800 கிகி/மீ³ என்பதால் இரும்புக் குண்டு பாதரசத்தில் மிதக்கும்.",
+      "explanation_en": "At room temperature, the density of mercury is 13,600 kg/m³. Since the density of iron is 7,800 kg/m³, an iron ball floats on mercury."
+    },
+    {
+      "id": 5,
+      "question_ta": "ஒரு கேலன் (Gallon) என்பது எத்தனை மில்லி லிட்டருக்கு (மி.லி) சமம்?",
+      "question_en": "One gallon is equal to how many millilitres (ml)?",
+      "options_ta": [
+        "1000 மி.லி",
+        "3785 மி.லி",
+        "30 மி.லி",
+        "500 மி.லி"
+      ],
+      "options_en": [
+        "1000 ml",
+        "3785 ml",
+        "30 ml",
+        "500 ml"
+      ],
+      "answer": 1,
+      "explanation_ta": "திரவங்களின் பருமனை அளக்கப் பயன்படும் அலகுகளில் 1 கேலன் = 3785 மி.லி, 1 அவுன்ஸ் = 30 மி.லி, 1 குவார்ட் = 1 லிட்டர் ஆகும்.",
+      "explanation_en": "Among the units used to measure liquid volume: 1 gallon = 3785 ml, 1 ounce = 30 ml, and 1 quart = 1 litre."
+    },
+    {
+      "id": 6,
+      "question_ta": "சம நிறையுள்ள இரு கோளங்களின் கனஅளவுகளின் விகிதம் 2 : 1 எனில், அவற்றின் அடர்த்தியின் விகிதம் என்ன?",
+      "question_en": "If two spheres of equal mass have a volume ratio of 2 : 1, what is the ratio of their densities?",
+      "options_ta": [
+        "1 : 2",
+        "2 : 1",
+        "4 : 1",
+        "1 : 4"
+      ],
+      "options_en": [
+        "1 : 2",
+        "2 : 1",
+        "4 : 1",
+        "1 : 4"
+      ],
+      "answer": 0,
+      "explanation_ta": "அடர்த்தி = நிறை / கன அளவு. நிறை சமமாக இருக்கும் போது அடர்த்தி கன அளவுக்கு எதிர்த்தகவில் இருக்கும் (D ∝ 1/V). எனவே V₁ : V₂ = 2 : 1 எனில், D₁ : D₂ = 1 : 2 ஆகும்.",
+      "explanation_en": "Density = Mass / Volume. When mass is constant, density is inversely proportional to volume (D ∝ 1/V). Thus, if V₁ : V₂ = 2 : 1, then D₁ : D₂ = 1 : 2."
+    },
+    {
+      "id": 7,
+      "question_ta": "நமது சூரிய குடும்பத்திற்கு மிக அருகில் அமைந்துள்ள 'ப்ராக்சிமா சென்டாரி' விண்மீன் எத்தனை ஒளி ஆண்டு தொலைவில் உள்ளது?",
+      "question_en": "How many light years away is 'Proxima Centauri', the closest star to our solar system?",
+      "options_ta": [
+        "2.5 ஒளி ஆண்டுகள்",
+        "4.22 ஒளி ஆண்டுகள்",
+        "25,000 ஒளி ஆண்டுகள்",
+        "1.496 ஒளி ஆண்டுகள்"
+      ],
+      "options_en": [
+        "2.5 light years",
+        "4.22 light years",
+        "25,000 light years",
+        "1.496 light years"
+      ],
+      "answer": 1,
+      "explanation_ta": "ப்ராக்சிமா சென்டாரி சூரிய குடும்பத்திலிருந்து 4.22 ஒளி ஆண்டு (2,68,770 வானியல் அலகு) தொலைவில் அமைந்துள்ளது.",
+      "explanation_en": "Proxima Centauri is located at a distance of 4.22 light years (2,68,770 AU) from our solar system."
+    },
+    {
+      "id": 8,
+      "question_ta": "வரைபடத்தாள் முறையில் ஓர் ஒழுங்கற்ற வடிவமுள்ள இலையின் தோராயமான பரப்பளவைக் கண்டறியும் சூத்திரம் எது?",
+      "question_en": "What is the formula to find the approximate area of an irregularly shaped leaf using a graph sheet?",
+      "options_ta": [
+        "M + N + P + Q",
+        "M + (3/4)N + (1/2)P + (1/4)Q",
+        "M + (1/2)N + (1/4)P + (1/8)Q",
+        "(1/2) [M + N + P + Q]"
+      ],
+      "options_en": [
+        "M + N + P + Q",
+        "M + (3/4)N + (1/2)P + (1/4)Q",
+        "M + (1/2)N + (1/4)P + (1/8)Q",
+        "(1/2) [M + N + P + Q]"
+      ],
+      "answer": 1,
+      "explanation_ta": "இலையின் தோராயமான பரப்பு = M + (3/4)N + (1/2)P + (1/4)Q சதுர செ.மீ. இதில் M = முழு சதுரங்கள், N = முக்கால் பகுதிக்கு மேல் உள்ளவை, P = பாதி சதுரங்கள், Q = கால் பகுதிக்கு கீழ் உள்ளவை.",
+      "explanation_en": "Approximate area = M + (3/4)N + (1/2)P + (1/4)Q sq. cm, where M is fully covered squares, N is more than half, P is half, and Q is less than half."
+    },
+    {
+      "id": 9,
+      "question_ta": "விளக்கெண்ணெயின் அடர்த்தி 961 கிகி/மீ³ மற்றும் நீரின் அடர்த்தி 1000 கிகி/மீ³. எனவே, நீரில் ஒரு துளி விளக்கெண்ணெயை இடும்போது என்ன நிகழும்?",
+      "question_en": "The density of castor oil is 961 kg/m³ and that of water is 1000 kg/m³. Therefore, what happens when a drop of castor oil is added to water?",
+      "options_ta": [
+        "விளக்கெண்ணெய் நீரில் மூழ்கும்",
+        "விளக்கெண்ணெய் நீரின் மீது மிதக்கும்",
+        "விளக்கெண்ணெய் உடனே நீரில் கரையும்",
+        "நீர்த்துளி விளக்கெண்ணெயின் மீது மிதக்கும்"
+      ],
+      "options_en": [
+        "Castor oil sinks in water",
+        "Castor oil floats on water",
+        "Castor oil dissolves immediately in water",
+        "Water droplet floats on castor oil"
+      ],
+      "answer": 1,
+      "explanation_ta": "விளக்கெண்ணெயின் அடர்த்தி (961 கிகி/மீ³) நீரின் அடர்த்தியை (1000 கிகி/மீ³) விடக் குறைவு என்பதால், அது நீரில் மிதந்து ஒரு மெல்லிய படலத்தை உருவாக்குகிறது.",
+      "explanation_en": "Since the density of castor oil (961 kg/m³) is less than that of water (1000 kg/m³), it floats on water forming a layer."
+    },
+    {
+      "id": 10,
+      "question_ta": "பின்வருவனவற்றுள் எது 'வழி அளவு' (Derived quantity) ஆகும்?",
+      "question_en": "Which of the following is a 'Derived quantity'?",
+      "options_ta": [
+        "வெப்பநிலை",
+        "மின்னோட்டம்",
+        "அடர்த்தி",
+        "பொருளின் அளவு"
+      ],
+      "options_en": [
+        "Temperature",
+        "Electric current",
+        "Density",
+        "Amount of substance"
+      ],
+      "answer": 2,
+      "explanation_ta": "வெப்பநிலை, மின்னோட்டம், பொருளின் அளவு ஆகியவை அடிப்படை அளவுகள் ஆகும். அடர்த்தி = நிறை / கன அளவு என்பதால் இது ஒரு வழி அளவாகும்.",
+      "explanation_en": "Temperature, electric current, and amount of substance are fundamental quantities. Density = Mass / Volume, which is obtained by combining fundamental quantities, so it is a derived quantity."
+    },
+    {
+      "id": 11,
+      "question_ta": "'r' ஆரமுடைய ஒரு திடக் கோளத்தின் கன அளவைக் (பருமன்) கண்டறிய உதவும் சூத்திரம் எது?",
+      "question_en": "What is the formula used to find the volume of a solid sphere of radius 'r'?",
+      "options_ta": [
+        "π r² h",
+        "(4/3) π r³",
+        "(1/3) π r² h",
+        "4 π r²"
+      ],
+      "options_en": [
+        "π r² h",
+        "(4/3) π r³",
+        "(1/3) π r² h",
+        "4 π r²"
+      ],
+      "answer": 1,
+      "explanation_ta": "கோளத்தின் கன அளவு = (4/3) π r³ ஆகும். உருளையின் கன அளவு π r² h ஆகும்.",
+      "explanation_en": "The volume of a sphere is given by (4/3) π r³, whereas π r² h is the formula for the volume of a cylinder."
+    }
+  ]
+}
